@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  background-color: #ccc;
+  border: 1px solid;
+  margin-bottom: 5px;
+}
+
+.conditon-wrapper {
+  display: flex;
+  text-align: center;
+  padding: 10px;
+}
+
+.conditon-wrapper input,
+select {
+  padding: 5px;
+  margin: 5px;
+}
+
+.radio-wrapper,
+.button-wrapper {
+  padding: 10px;
+}
+
+.button-wrapper input {
+  padding: 5px;
+  margin: 5px;
+}
+
+.group-wrapper {
+  background-color: #777;
+  padding: 10px;
+  margin-bottom: 10px;
+}
