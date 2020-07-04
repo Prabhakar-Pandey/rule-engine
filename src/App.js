@@ -18,14 +18,6 @@ class Welcome extends React.Component {
           ]
         }
       ],
-      // resultDataSet: [
-      //   {
-      //     slectectedConditionType: "",
-      //     conditionOperator: "",
-      //     valueAssigned: "",
-      //     groupOperatorSelection: ""
-      //   }
-      // ],
       filters: []
     };
 
